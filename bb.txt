@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 bb  modify test
+=======
+bb test  
+xxxxxxxxxxxxx
+>>>>>>> 70a620c94629fabc6607a403d5e525e016fab96a
